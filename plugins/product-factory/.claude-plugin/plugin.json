@@ -1,0 +1,7 @@
+{
+  "name": "product-factory",
+  "description": "Eight skills for taking a product from idea to launch with coding agents: pain mining, idea validation, product spec, agent task writing, security scanning, README and demo, launch, and metrics.",
+  "version": "0.1.0",
+  "author": {"name": "Naresh R"},
+  "license": "MIT"
+}

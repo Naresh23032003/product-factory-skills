@@ -1,0 +1,11 @@
+{
+  "name": "product-factory",
+  "owner": {"name": "Naresh R"},
+  "plugins": [
+    {
+      "name": "product-factory",
+      "source": "./plugins/product-factory",
+      "description": "Eight skills for taking a product from idea to launch with coding agents: pain mining, idea validation, product spec, agent task writing, security scanning, README and demo, launch, and metrics."
+    }
+  ]
+}
